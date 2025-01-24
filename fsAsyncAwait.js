@@ -1,10 +1,10 @@
-const { error } = require("console")
-const fs = require("fs/promises")
-const path = require("path")
+// const { error } = require("console")
+// const fs = require("fs/promises")
+// const path = require("path")
 
-const fileName = "fsAsyncAwait.txt"
+// const fileName = "fsAsyncAwait.txt"
 
-const filepath = path.join(__dirname ,fileName)
+// const filepath = path.join(__dirname ,fileName)
 
 // const filepath1 = __dirname
 
