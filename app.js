@@ -19,6 +19,7 @@
 
 
 
+
 //  const add = require("./math")
 //  console.log(add(5,10))
 
@@ -37,9 +38,9 @@
 //   console.log(divide(5,10))
 
 
-const math = require("./math")
-console.log(math.add(5, 10))
-console.log(math.multi(5, 10))
-console.log(math.subs(5, 10))
-console.log(math.divide(5, 10))
+// const math = require("./math")
+// console.log(math.add(5, 10))
+// console.log(math.multi(5, 10))
+// console.log(math.subs(5, 10))
+// console.log(math.divide(5, 10))
 
