@@ -79,6 +79,6 @@ Emitter.emit("user-logout", "satish");
 
 
 
-Emitter.emit("summary",() => {
+Emitter.emit("summary", () => {
     console.log(EventCounts)
 });
