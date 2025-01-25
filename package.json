@@ -1,0 +1,24 @@
+{
+  "name": "node-full-course",
+  "version": "1.0.0",
+  "description": "node and express series",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satishjamle/Node-full-Course.git"
+  },
+  "author": "satish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satishjamle/Node-full-Course/issues"
+  },
+  "homepage": "https://github.com/satishjamle/Node-full-Course#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "express": "^4.21.2"
+  }
+}
